@@ -9,3 +9,6 @@ requirements
 
 1. pynput
 2. python
+
+Disclaimer:
+I do not intend for this program to be used maliciously and do not encourage malicious use of the program either
